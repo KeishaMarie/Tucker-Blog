@@ -13,3 +13,13 @@ h2{
   text-align: center;
   color: #ca9816;
 }
+
+.column {
+  width: 300px;
+  float: left;
+}
+
+.column2  {
+  width: 300px;
+  float: right;
+}
